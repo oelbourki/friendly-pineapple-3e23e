@@ -36,6 +36,14 @@ sections:
         icon: linkedin
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://twitter.com/oelbourki'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero-2.png
