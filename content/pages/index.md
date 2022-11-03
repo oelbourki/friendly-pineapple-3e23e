@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: '/https://twitter.com/oelbourki'
         showIcon: true
-        icon: arrowRight
+        icon: twitter
         iconPosition: right
         elementId: ''
       - type: Link
