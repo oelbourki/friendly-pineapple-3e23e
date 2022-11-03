@@ -30,7 +30,6 @@ sections:
         style: primary
         url: /
       - type: Link
-        label: Learn more
         altText: ''
         url: '/https://www.linkedin.com/in/oelbourki/'
         showIcon: true
