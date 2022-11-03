@@ -77,9 +77,12 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >+
+      “The greatest glory in living lies not in never falling, but in rising
+      every time we fall.”
+
+
+
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
