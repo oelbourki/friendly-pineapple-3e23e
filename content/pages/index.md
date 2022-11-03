@@ -46,7 +46,7 @@ sections:
       - type: Link
         altText: ''
         url: '/https://github.com/oelbourki'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
