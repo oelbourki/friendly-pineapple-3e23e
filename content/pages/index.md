@@ -34,7 +34,7 @@ sections:
         altText: ''
         url: '/https://www.linkedin.com/in/oelbourki/'
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
