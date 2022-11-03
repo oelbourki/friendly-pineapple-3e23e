@@ -83,7 +83,7 @@ sections:
 
 
 
-    name: Isabelle Parks
+    name: Nelson Mandela
     title: Head chef at Parks
     styles:
       self:
