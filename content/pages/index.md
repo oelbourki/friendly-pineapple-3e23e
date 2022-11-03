@@ -47,7 +47,7 @@ sections:
         altText: ''
         url: '/https://github.com/oelbourki'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
     media:
