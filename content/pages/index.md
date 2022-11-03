@@ -84,7 +84,6 @@ sections:
 
 
     name: Nelson Mandela
-    title: Head chef at Parks
     styles:
       self:
         height: auto
