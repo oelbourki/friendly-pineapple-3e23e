@@ -40,7 +40,7 @@ sections:
         label: Learn more
         altText: ''
         url: '/https://twitter.com/oelbourki'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
