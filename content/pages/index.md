@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Welcome to my Portfolio website
+    title: Welcome to my Portfolio website!
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
