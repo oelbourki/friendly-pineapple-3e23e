@@ -112,6 +112,7 @@ sections:
         icon: arrowRight
     posts:
       - content/pages/blog/postlayout-kluhwypfp.md
+      - content/pages/blog/postlayout-28jlivosf.md
     styles:
       self:
         height: auto
