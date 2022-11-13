@@ -113,6 +113,7 @@ sections:
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
+      - content/pages/blog/postlayout-kluhwypfp.md
     styles:
       self:
         height: auto
