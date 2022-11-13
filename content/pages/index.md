@@ -106,7 +106,7 @@ sections:
     title: Recent projects
     actions:
       - type: Link
-        label: See all adventures
+        label: See all projects
         url: /blog
         showIcon: true
         icon: arrowRight
