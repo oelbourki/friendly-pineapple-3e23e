@@ -173,7 +173,10 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    text: >+
+      ## [Add me to your connections on
+      Linkedin](https://www.linkedin.com/in/oelbourki/)
+
     styles:
       self:
         height: auto
