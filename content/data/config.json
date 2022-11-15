@@ -107,6 +107,15 @@
                 "label": "Facebook",
                 "url": "/oelbourki",
                 "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/oelbourki",
+                "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
