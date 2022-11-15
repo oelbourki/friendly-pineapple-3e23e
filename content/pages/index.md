@@ -15,6 +15,7 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+    title: This portfolio website is under construction
   - type: HeroSection
     colors: colors-d
     elementId: ''
