@@ -21,7 +21,7 @@ sections:
     elementId: ''
     quote: |
       This proftolio website still under construction
-    name: Johnna Doe
+    name: Otmane El Bourki
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
