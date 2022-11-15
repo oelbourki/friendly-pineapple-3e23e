@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     elementId: ''
     quote: |
-      This proftolio website still under construction
+      This porftolio website is still under construction
     name: Otmane El Bourki
     backgroundImage: null
     styles:
