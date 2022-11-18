@@ -19,13 +19,32 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Education
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: |+
+      **1337 Future is Loading UM6P-42Network level:10.69**
 
+      Digital Technology architect| Oct 2019 - 2023
 
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+      System Programming and advanced C / C++
+      Data Structures & Algorithms 
+      Devops
+
+      **Ibn Tofail University Kenitra**
+
+      Bachelor of Computer Science | 2017 - 2019/2020-2022
+
+      Databases and SQL
+      Linear algebra, Numerical analysis and Operational research
+      System Desing / UML
+
+      **Ibn Tofail University Kenitra**
+
+      Master in Artificial intelligence | 2022 - 2024
+
+      Machine learning, Deep learning
+      Natural language processing
+      Computer Vision and Image processing
+      Mathematics for Artificial intelligence
+
     styles:
       self:
         height: auto
