@@ -21,7 +21,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my Portfolio website!
-    subtitle: Curious . Problem solver.
+    subtitle: Curious. Creative. Problem solver.
     text: ''
     actions:
       - type: Button
