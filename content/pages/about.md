@@ -67,8 +67,9 @@ sections:
     title: Experience
     subtitle: ''
     text: >
-      ### [**Co-Founder, President 1337AI
-      **](https://www.linkedin.com/company/1337ai) **Nov 2019- 2022**&#xA;&#xA;
+      ### **Co-Founder, President
+      **[**1337AI**](https://www.linkedin.com/company/1337ai)** Nov 2019-
+      2022&#xA;**&#xA;
 
 
       Organizing multiple boot camps in Machine learning and python programming
