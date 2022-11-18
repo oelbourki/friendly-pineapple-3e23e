@@ -39,7 +39,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: '/https://twitter.com/oelbourki'
+        url: 'https://twitter.com/oelbourki'
         showIcon: true
         icon: twitter
         iconPosition: right
