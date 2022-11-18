@@ -104,7 +104,9 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Recent projects
+    title: >-
+      Recent projects / This section is not done yet check my Github for all my
+      projects
     actions:
       - type: Link
         label: See all projects
