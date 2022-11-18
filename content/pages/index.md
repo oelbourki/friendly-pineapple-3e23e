@@ -32,7 +32,7 @@ sections:
         url: /blog
       - type: Link
         altText: ''
-        url: '/https://www.linkedin.com/in/oelbourki/'
+        url: 'https://www.linkedin.com/in/oelbourki/'
         showIcon: true
         icon: linkedin
         iconPosition: right
