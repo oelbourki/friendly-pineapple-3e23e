@@ -125,6 +125,11 @@ sections:
       ](https://www.coursera.org/account/accomplishments/specialization/C64Y5NJLJ9H5)
 
 
+      *   [Practical Data Science by
+      AWS](https://www.coursera.org/account/accomplishments/specialization/C64Y5NJLJ9H5)[
+      ](https://www.coursera.org/account/accomplishments/specialization/C64Y5NJLJ9H5)
+
+
       *   [Deep Learning
       Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/P3QREUFEN7PX)
 
