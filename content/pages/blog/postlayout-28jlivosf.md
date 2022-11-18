@@ -6,9 +6,7 @@ metaTags: []
 title: ft_containers
 colors: colors-d
 date: '2021-11-18'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Build C++ containers from scratch
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
