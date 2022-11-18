@@ -210,4 +210,5 @@ sections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+metaTitle: otmane el bourki
 ---
