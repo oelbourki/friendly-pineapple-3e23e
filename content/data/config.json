@@ -118,7 +118,7 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Github",
                 "altText": "",
                 "url": "/oelbourki",
                 "icon": "github",
