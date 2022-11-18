@@ -16,31 +16,6 @@ sections:
         borderWidth: 1
         borderStyle: solid
     title: This portfolio website is under construction
-  - type: QuoteSection
-    colors: colors-d
-    elementId: ''
-    quote: |
-      This porftolio website is still under construction
-    name: Otmane El Bourki
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight: 500
-        textAlign: center
-      title:
-        fontWeight: 400
-        textAlign: center
   - type: HeroSection
     colors: colors-d
     elementId: ''
