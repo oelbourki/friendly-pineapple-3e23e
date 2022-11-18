@@ -22,9 +22,9 @@ sections:
     text: |+
       ## **Ibn Tofail University Kenitra**
 
-      ## Master in Artificial intelligence | 2022 - 2024
+      ##### Master in Artificial intelligence | 2022 - 2024
 
-      *   Machine learning, Deep learning
+      Machine learning, Deep learning
 
       *   Natural language processing
 
