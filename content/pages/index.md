@@ -199,7 +199,7 @@ sections:
     backgroundSize: full
     title: I am your Machine Learning Engineer
     text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
+      I am very excited to work on various machine learning projects.
     actions:
       - type: Link
         label: Join adventure
