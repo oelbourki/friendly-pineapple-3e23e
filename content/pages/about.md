@@ -66,10 +66,17 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: >+
+    text: >
       ### [**Co-Founder, President
-      1337AI**](https://www.linkedin.com/company/1337ai)** Nov 2019- 2022**
+      1337AI**](https://www.linkedin.com/company/1337ai)\*\* Nov 2019-
+      2022\*\*&#xA;&#xA;
 
+
+      Organizing multiple boot camps in Machine learning and python programming
+      to help students gain skills in AI
+
+
+      Contributing to multiple events in UM Plike X-ibition, JPO ...
     styles:
       self:
         height: auto
