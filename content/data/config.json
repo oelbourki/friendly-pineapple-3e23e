@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "elbourki.1999@gmail.com",
+                "url": "https://mail.google.com/mail/?view=cm&source=mailto&to=[email@address]elbourki.1999@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
