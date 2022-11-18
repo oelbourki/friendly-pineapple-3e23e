@@ -228,4 +228,5 @@ sections:
 addTitleSuffix: true
 metaTags: []
 metaTitle: OTMANE EL BOURKI
+metaDescription: OTMANE EL BOURKI
 ---
