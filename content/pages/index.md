@@ -29,7 +29,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /blog
       - type: Link
         altText: ''
         url: '/https://www.linkedin.com/in/oelbourki/'
