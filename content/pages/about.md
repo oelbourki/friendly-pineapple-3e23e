@@ -24,26 +24,33 @@ sections:
 
       Digital Technology architect| Oct 2019 - 2023
 
-      System Programming and advanced C / C++
-      Data Structures & Algorithms 
-      Devops
+      *   System Programming and advanced C / C++
+
+      *   Data Structures & Algorithms
+
+      *   DevOps
 
       **Ibn Tofail University Kenitra**
 
       Bachelor of Computer Science | 2017 - 2019/2020-2022
 
-      Databases and SQL
-      Linear algebra, Numerical analysis and Operational research
-      System Desing / UML
+      *   Databases and SQL
+
+      *   Linear algebra, Numerical analysis , and Operational research
+
+      *   System Desing / UML
 
       **Ibn Tofail University Kenitra**
 
       Master in Artificial intelligence | 2022 - 2024
 
-      Machine learning, Deep learning
-      Natural language processing
-      Computer Vision and Image processing
-      Mathematics for Artificial intelligence
+      *   Machine learning, Deep learning
+
+      *   Natural language processing
+
+      *   Computer Vision and Image processing
+
+      *   Mathematics for Artificial intelligence
 
     styles:
       self:
