@@ -119,13 +119,35 @@ sections:
     variant: variant-a
     title: TRAINING / COURSES
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      *   [Practical Data Science by
+      AWS](https://www.coursera.org/account/accomplishments/specialization/C64Y5NJLJ9H5)[
+      ](https://www.coursera.org/account/accomplishments/specialization/C64Y5NJLJ9H5)
+
+
+      *   [Deep Learning
+      Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/P3QREUFEN7PX)
+
+
+      *   [TensorFlow: Data and Deployment
+      Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NP2QHYV4NNC2)
+
+
+      *   [DeepLearning.AI TensorFlow Developer Professional
+      Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/R4UC8W9DEEVD)
+
+
+      *   [Mathematics for Machine Learning Specialization by Imperial College
+      London](https://www.coursera.org/account/accomplishments/specialization/certificate/5HEB8G2528E5)
+
+
+      *   [Machine Learning in Python and Scikit Learn by
+      Inria](https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:inria+41026+session01\_fcef4c022912edafa6ec055c279fefaa.pdf)
+
+
+      *   [HCIA-AI (Ai Developer) by
+      Huawei](https://drive.google.com/file/d/1FYoK--zQ7NVyYtfit3dI37ZrGMSqyvrO/view?usp=sharing)
+
     styles:
       self:
         height: auto
