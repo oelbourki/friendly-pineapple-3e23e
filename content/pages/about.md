@@ -211,4 +211,5 @@ sections:
         borderStyle: solid
 addTitleSuffix: true
 metaTitle: otmane el bourki
+metaDescription: otmane el bourki
 ---
