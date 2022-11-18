@@ -66,13 +66,10 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ### [**Co-Founder, President
+      1337AI**](https://www.linkedin.com/company/1337ai)** Nov 2019- 2022**
+
     styles:
       self:
         height: auto
