@@ -21,13 +21,29 @@ sections:
     variant: variant-a
     title: Skills
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      *   Tensorflow / Pytorch / Scikit-learn
+
+      *   Pandas / Numpy / Matplotlib
+
+      *   Python / C / C++ / Java
+
+      *   FastApi / Pyspark / OpenCV
+
+      *   Docker / Kubernetes
+
+      *   AWS / AWS SageMaker
+
+      *   SQL(PostgreSQL) / PL/SQL
+
+      *   Socket Programming
+
+      *   Multithreading Programming
+
+      *   System Programming
+
+      *   Git / GitHub Actions
+
     styles:
       self:
         height: auto
