@@ -46,7 +46,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: '/https://github.com/oelbourki'
+        url: 'https://github.com/oelbourki'
         showIcon: true
         icon: github
         iconPosition: right
