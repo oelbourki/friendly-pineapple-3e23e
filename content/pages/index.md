@@ -37,6 +37,7 @@ sections:
         icon: linkedin
         iconPosition: right
         elementId: ''
+        label: Linkdein
       - type: Link
         altText: ''
         url: '/https://twitter.com/oelbourki'
