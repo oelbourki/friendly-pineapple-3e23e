@@ -46,7 +46,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my Portfolio website!
-    subtitle: Fresh. Better. Faster.
+    subtitle: Curious . Problem solver.
     text: ''
     actions:
       - type: Button
