@@ -201,7 +201,7 @@ sections:
       I am very excited to work on various machine learning projects.
     actions:
       - type: Link
-        label: Join adventure
+        label: Contact me
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight
