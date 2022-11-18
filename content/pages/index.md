@@ -235,6 +235,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
   - type: DividerSection
     colors: colors-d
     styles:
