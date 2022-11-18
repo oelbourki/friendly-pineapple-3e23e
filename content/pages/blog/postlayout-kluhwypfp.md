@@ -19,6 +19,9 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 slug: postlayout-kluhwypfp
+excerpt: >-
+  Building an emotion detection app exploring multiple models like Vgg16 and
+  Resnet50 and custom ones trained on Fer2013 data set
 ---
 Building an emotion detection app exploring multiple models like Vgg16 and Resnet50 and custom ones trained on Fer2013 data set
 
