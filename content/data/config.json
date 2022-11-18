@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "elbourki.1999",
+                "url": "elbourki.1999@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
