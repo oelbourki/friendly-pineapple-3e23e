@@ -53,7 +53,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/MeinBg.jpg
+      url: /images/MeinBg (1).jpg
       altText: Hero image
     backgroundImage: null
     styles:
