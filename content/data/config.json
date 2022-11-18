@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "mailto:info@lorem.mail",
+                "url": "elbourki.1999",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
