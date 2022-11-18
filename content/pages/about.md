@@ -20,11 +20,11 @@ sections:
     variant: variant-a
     title: Education
     text: |+
-      ## **Ibn Tofail University Kenitra**
+      ### **Ibn Tofail University Kenitra**
 
       ##### Master in Artificial intelligence | 2022 - 2024
 
-      Machine learning, Deep learning
+      *   Machine learning, Deep learning
 
       *   Natural language processing
 
@@ -32,9 +32,9 @@ sections:
 
       *   Mathematics for Artificial intelligence
 
-      # **1337 Future is Loading UM6P-42Network level:10.69**
+      ### **1337 Future is Loading UM6P-42Network level:10.69**
 
-      ## Digital Technology architect| Oct 2019 - 2023
+      #### Digital Technology architect| Oct 2019 - 2023
 
       *   System Programming and advanced C / C++
 
@@ -42,9 +42,9 @@ sections:
 
       *   DevOps
 
-      # **Ibn Tofail University Kenitra**
+      ### **Ibn Tofail University Kenitra**
 
-      ## Bachelor of Computer Science | 2017 - 2019/2020-2022
+      #### Bachelor of Computer Science | 2017 - 2019/2020-2022
 
       *   Databases and SQL
 
