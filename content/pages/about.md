@@ -117,7 +117,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Trainig/ COURSES/ Certifications
+    title: Training/ Courses/ Certifications
     subtitle: ''
     text: >+
       *   [Practical Data Science by
