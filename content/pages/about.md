@@ -113,7 +113,7 @@ sections:
 
       ##### Master in Artificial intelligence | 2022 - 2024
 
-      *   Machine learning, Deep learning, Reinforcment learning
+      *   Machine learning, Deep learning, Reinforcement learning
 
       *   Natural language processing
 
