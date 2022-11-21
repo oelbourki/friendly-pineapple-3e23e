@@ -66,28 +66,24 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: >+
+    text: >
       ### **Machine Learning Researcher Assistant at Ibn Tofail CS Department
-      Oct 2019- 2022**
+      Mar 2022-  Jun 2022**
 
 
       Creating a solution for the Facial expression recognition problem with a
       desktop app experiment with different models.
 
 
-
       ### **Co-Founder, President
-      **[**1337AI**](https://www.linkedin.com/company/1337ai)** Oct 2019- 2022**
+      **[**1337AI**](https://www.linkedin.com/company/1337ai)** Oct 2019 - Feb
+      2022**
 
 
-      Organizing multiple boot camps in Machine learning and python programming
-      to help students gain skills in AI
+      • Organizing bootcamps in Python and Machine learning.
 
-
-      Contributing to multiple events in UM Plike X-ibition, JPO ...
-
-
-
+      • Giving lectures in Machine learning and mentoring new students in their
+      journey.
     styles:
       self:
         height: auto
