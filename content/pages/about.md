@@ -66,7 +66,7 @@ sections:
     variant: variant-a
     title: Experience
     subtitle: ''
-    text: >
+    text: >+
       ### **Machine Learning Researcher Assistant at Ibn Tofail CS Department
       Mar 2022-  Jun 2022**
 
@@ -80,10 +80,12 @@ sections:
       2022**
 
 
-      • Organizing bootcamps in Python and Machine learning.
+      *   Organizing bootcamps in Python and Machine learning.
 
-      • Giving lectures in Machine learning and mentoring new students in their
-      journey.
+
+      *   Giving lectures in Machine learning and mentoring new students in
+      their journey.
+
     styles:
       self:
         height: auto
