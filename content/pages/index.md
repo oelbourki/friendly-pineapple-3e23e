@@ -229,6 +229,6 @@ sections:
         borderStyle: solid
 addTitleSuffix: true
 metaTags: []
-metaTitle: Otm
+metaTitle: 'Otmane El Bourki '
 metaDescription: otmane el bourki
 ---
