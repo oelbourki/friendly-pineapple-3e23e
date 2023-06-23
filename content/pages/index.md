@@ -101,52 +101,6 @@ sections:
         textAlign: center
       title:
         textAlign: center
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    title: >-
-      Recent projects / This section is not done yet check my Github for all my
-      projects
-    actions:
-      - type: Link
-        label: See all projects
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/postlayout-kluhwypfp.md
-      - content/pages/blog/postlayout-28jlivosf.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Read more
-    showAuthor: false
   - type: TextSection
     colors: colors-e
     variant: variant-a
