@@ -17,48 +17,6 @@ sections:
         borderStyle: solid
   - type: TextSection
     colors: colors-d
-    elementId: ''
-    variant: variant-a
-    title: Experience
-    subtitle: ''
-    text: >+
-      ### **Machine Learning Researcher Assistant at Ibn Tofail CS Department
-      Mar 2022-  Jun 2022**
-
-
-      Creating a solution for the Facial expression recognition problem with a
-      desktop app experiment with different models.
-
-
-      ### **Co-Founder, President
-      **[**1337AI**](https://www.linkedin.com/company/1337ai)** Oct 2019 - Feb
-      2022**
-
-
-      *   Organizing bootcamps in Python and Machine learning.
-
-
-      *   Giving lectures in Machine learning and mentoring new students in
-      their journey.
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-d
     variant: variant-a
     title: Education
     text: |+
