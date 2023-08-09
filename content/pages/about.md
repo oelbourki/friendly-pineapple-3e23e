@@ -54,44 +54,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: MediaGallerySection
-    colors: colors-d
-    elementId: ''
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/Otmane-El-Bourki-CV-7252023.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-    spacing: 16
-    columns: 3
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: TextSection
     colors: colors-d
     elementId: ''
