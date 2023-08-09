@@ -19,51 +19,6 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Skills
-    subtitle: ''
-    text: |+
-      *   Tensorflow / Pytorch / Scikit-learn
-
-      *   Pandas / Numpy / Matplotlib
-
-      *   Python / C / C++ / Java
-
-      *   FastApi / Pyspark / OpenCV
-
-      *   Docker / Kubernetes
-
-      *   AWS / AWS SageMaker
-
-      *   SQL(PostgreSQL) / PL/SQL
-
-      *   Socket Programming
-
-      *   Multithreading Programming
-
-      *   System Programming
-
-      *   Git / GitHub Actions
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-d
-    elementId: ''
-    variant: variant-a
     title: Experience
     subtitle: ''
     text: >+
