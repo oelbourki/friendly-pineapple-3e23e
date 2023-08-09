@@ -17,59 +17,6 @@ sections:
         borderStyle: solid
   - type: TextSection
     colors: colors-d
-    variant: variant-a
-    title: Education
-    text: |+
-      ### **Ibn Tofail University Kenitra**
-
-      ##### Master in Artificial Intelligence | 2022 - 2024
-
-      *   Machine learning, Deep learning, Reinforcement learning
-
-      *   Natural language processing
-
-      *   Computer Vision and Image processing
-
-      *   Mathematics for Artificial Intelligence
-
-      ### **1337 Future is Loading UM6P-42Network level:10.69**
-
-      #### Digital Technology Architect | Oct 2019 - 2023
-
-      *   System Programming and advanced C / C++
-
-      *   Data Structures & Algorithms
-
-      *   DevOps
-
-      ### **Ibn Tofail University Kenitra**
-
-      #### Bachelor of Computer Science | 2020-2022
-
-      *   Databases and SQL
-
-      *   Linear algebra, Numerical analysis, and Operational research
-
-      *   System Desing / UML
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-32
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-d
     elementId: ''
     variant: variant-a
     title: Training/ Courses/ Certifications
