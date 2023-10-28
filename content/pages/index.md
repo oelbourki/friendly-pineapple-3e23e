@@ -127,7 +127,7 @@ sections:
         textAlign: center
   - type: FeatureHighlightSection
     colors: colors-d
-    title: "I am your\_ Engineer"
+    title: I am your AI Engineer
     text: |
       I am very excited to work on various machine learning projects.
     actions:
