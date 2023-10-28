@@ -96,13 +96,6 @@
             },
             {
                 "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/oelbourki/",
-                "icon": "facebook"
-            },
-            {
-                "type": "Social",
                 "label": "Linkdein",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/oelbourki/",
