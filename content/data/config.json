@@ -89,13 +89,6 @@
             },
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/oelbourki",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
                 "label": "Linkdein",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/oelbourki/",
