@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Resume
-    subtitle: Fresh. Better. Faster.
+    subtitle: last update at
     text: ''
     actions:
       - type: Button
