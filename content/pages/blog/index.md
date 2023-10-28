@@ -28,7 +28,7 @@ topSections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Let's do this
+    title: Check my Github for latest projects
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
