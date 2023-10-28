@@ -82,13 +82,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/oelbourki",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Linkdein",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/oelbourki/",
