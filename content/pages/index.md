@@ -39,13 +39,6 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: 'https://twitter.com/oelbourki'
-        showIcon: true
-        icon: twitter
-        iconPosition: right
-        elementId: ''
-      - type: Link
-        altText: ''
         url: 'https://github.com/oelbourki'
         showIcon: true
         icon: github
