@@ -8,7 +8,6 @@ date: '2021-11-18'
 excerpt: 'Build C++ containers from scratch like Vector, Map, Stack, Set'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post thumbnail image
   caption: ''
 media:
