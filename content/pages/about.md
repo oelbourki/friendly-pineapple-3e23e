@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Resume
-    subtitle: last update at 17/08/2023
+    subtitle: last resume update at 17/08/2023
     text: ''
     actions:
       - type: Button
