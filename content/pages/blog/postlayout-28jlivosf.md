@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: ft_containers
 colors: colors-d
 date: '2021-11-18'
 excerpt: 'Build C++ containers from scratch like Vector, Map, Stack, Set'
