@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Facial expression detection
 colors: colors-d
 date: '2022-06-29'
 featuredImage:
