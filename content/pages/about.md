@@ -32,7 +32,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Otmane_El_Bourki_CV_2_11_23.jpg
-      altText: Hero image
+      altText: resume
     backgroundImage: null
     styles:
       self:
