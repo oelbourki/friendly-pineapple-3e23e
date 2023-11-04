@@ -127,7 +127,7 @@ sections:
       - type: Link
         label: Contact me
         url: >-
-          https://mail.google.com/mail/u/0/?fs=1&to=elbourki.1999@gmail.com&tf=cm
+          https://mail.google.com/mail/u/0/?fs=1&to=otmane.elbourki@gmail.com&tf=cm
         showIcon: true
         icon: arrowRight
     backgroundImage:
