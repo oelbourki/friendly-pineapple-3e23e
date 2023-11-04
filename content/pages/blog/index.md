@@ -15,7 +15,7 @@ topSections:
     title: Check my Github for latest projects
     actions:
       - type: Button
-        label: Try it now
+        label: Go to Github
         showIcon: true
         icon: arrowRight
         url: /
