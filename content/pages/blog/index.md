@@ -19,6 +19,7 @@ topSections:
         showIcon: true
         icon: arrowRight
         style: primary
+        url: 'https://github.com/oelbourki'
     backgroundImage: null
     styles:
       self:
