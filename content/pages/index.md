@@ -122,7 +122,7 @@ sections:
     colors: colors-d
     title: I am your AI Engineer
     text: |
-      I am very excited to work on various machine learning projects.
+      I am very excited to work on various artificial intelligence projects.
     actions:
       - type: Link
         label: Contact me
