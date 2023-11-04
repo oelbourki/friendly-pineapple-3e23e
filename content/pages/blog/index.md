@@ -18,7 +18,6 @@ topSections:
         label: Go to Github
         showIcon: true
         icon: arrowRight
-        url: /
         style: primary
     backgroundImage: null
     styles:
