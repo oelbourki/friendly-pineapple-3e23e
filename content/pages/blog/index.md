@@ -20,6 +20,7 @@ topSections:
         icon: arrowRight
         style: primary
         url: 'https://github.com/oelbourki'
+        altText: 'https://github.com/oelbourki'
     backgroundImage: null
     styles:
       self:
