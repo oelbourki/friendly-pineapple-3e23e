@@ -33,6 +33,7 @@ sections:
       type: ImageBlock
       url: /images/Otmane_El_Bourki_CV_2_11_23.jpg
       altText: resume
+      elementId: resume
     backgroundImage: null
     styles:
       self:
